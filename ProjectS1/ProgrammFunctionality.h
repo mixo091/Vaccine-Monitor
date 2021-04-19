@@ -1,0 +1,14 @@
+int insert_record(LinkedList **list,Record*r,char* virus,date _date,bool Vaccinated);
+void System_InsertRecord(LinkedList **list, Record* r,char* virus,bool Vaccinated,date _date);
+int  InsertCitizenRecord(LinkedList **list,RecordList ** Records,Countries** countries,int id , char* name ,char* surname,int age,char* country,char* virus,date _date,bool Vaccinated);
+void PrintList(LinkedList *list);
+void System_VaccineStatus(int citizenID,LinkedList* system);
+void System_VaccineStatusV(int citizenID,char* VirusName,LinkedList* system);
+void  getNonVaccinated(char* VirusName,LinkedList* system);
+void CountryPopulationStatus(char* VirusName,char* Country,date* d1,date* d2,Countries* _Countries,LinkedList* system);
+void populationStatus(char* VirusName ,date* d1,date* d2,Countries* _Countries,LinkedList* system);
+void VaccineBloomStatus(LinkedList* system,char* VirusName,int id);
+void  VaccinateNow(int citizenID,char * firstName,char* lasName ,char * country,int age ,char * VirusName,LinkedList** system,RecordList* records);
+void CountryPopStatusByAge(char* VirusName,char* Country,date* d1,date* d2,Countries* _Countries,LinkedList* system);
+void popStatusByAge(char* VirusName,date* d1,date* d2,Countries* _Countries,LinkedList* system);
+void TakeCommands(RecordList* Records, LinkedList*  DataSystem,Countries* countries);

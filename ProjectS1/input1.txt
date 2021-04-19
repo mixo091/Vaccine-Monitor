@@ -1,0 +1,56 @@
+889 John Papadopoulos Greece 52 COVID-19 YES 27-12-2020
+776 Maria Tortellini Italy 36 SARS-1 NO
+125 Jon Dupont USA 76 H1N1 YES 30-10-2020 
+567 George Ferrari Italy 66 COVID-19 NO
+656 Trae Young USA 25 SARS-1 YES 6-5-2020
+776 Maria Tortellini Italy 36 COVID-19 YES 5-3-2021
+543 Jordan Peterson Canada 54 H1N1 YES 4-2-2018
+7 Jack Nicolson Columbia 32 SARS-1 NO
+32 Chuck Norris France 44 COVID-19 YES 2-2-2002
+222 Peter Fenwick USA 90 H1N1 YES 27-10-2016
+323 Roger Penrose Brazil 23 COVID-19 NO 
+44 Patrick Boseman Spain 33 COVID-19 YES 24-2-2021
+222 Peter Fenwick USA 90 SARS NO
+55 Lebron James Greece 33 COVID-19 NO
+566 Bob dylan Greece 34 SARS-1 YES 20-12-2020
+433 Mark Manson UGANDA 34 COVID-19 YES 22-5-2021
+655 Richard Feynman USA 67 SARS-1 YES 30-6-2011
+201 Cristiano Ronaldo Portugal 35 SARS YES 20-1-2000
+846 Kim Kardashian Israel 34 SARS NO
+425 george mathiopoulos Germany 44 SARS-1 YES 23-7-2002
+889 John Papadopoulos Greece 52 COVID-19 YES 27-12-2020
+222 Peter Fenwick USA 90 Ipatitida NO
+889 John Papadopoulos Greece 52 Η1Ν1 ΝΟ
+677 Ian Couper USA 30 SARS-1 YES 23-6-2009
+155 Giannhs Antetokoumpo Nighria 25 SARS NO 
+67 Mark Derozan USA 45 H1N1 60 YES 26-7-2004 
+876 gigi hadid Greece 27 SARS-1 YES 23-8-2020
+334 James Harden Ausrtalia 33 H1N1 YES 30-7-2018
+687 Damian Lillard USA 30 SARS-1 NO
+236 nick morales Spain 44 H1N1 NO
+455 kyrie Inrving Spain 26 Ipatitida NO
+332 Michael jacsonu USA 66 HIV NO
+236 nick morales Spain 44 HIV YES 3-7-2010
+486 stan lee USA 55 COVID-19 YES 29-4-2021
+33 Jesus Christ jew 33 IpatitidaB YES 20-8-2001
+334 James Harden Ausrtalia 33 COVID-19 NO
+687 Damian Lillard USA 30 COVID-19 NO
+28 kobe brayant USA 42 Ipatitida NO 
+555 LARRY KING CANDA 87 H1N1 NO
+657 michael Michopoulos USA 22 SARS-1 YES 20-5-2019
+236 nick morales Spain 44 COVID-19 YES 30-3-2020
+238 john wick Brasil 35 COVID-19 NO 
+499 alison tomas USA 56 COVID-19 YES 12-7-2019
+222 Peter Fenwick USA 90 HIV YES 23-8-2019
+222 Peter Fenwick USA 90 SARS-1 YES 5-8-2019
+801 jenny konte France 66 COVID-19 NO 
+806 penny edison Canada 22 COVID-19 YES 22-1-2019
+888 deAnde jordan USA  44 COVID-19 NO
+155 Giannhs Antetokoumpo Nighria 25 COVID-19 NO 
+810 leonard alen Spain 17 COVID-19 YES 30-6-2014
+213 seldon griffin Italy 53 COVID-19 NO 
+236 nick morales Spain 44 SARS YES 20-3-2020
+508 michael jordan Greece 32 COVID-19 YES 21-9-2020
+213 seldon griffin Italy 53 SARS-1 NO 
+768 mark beer Mexico 24 COVID-19 NO
+1000 Bruce Lee Portugal 34 H1N1 NO
