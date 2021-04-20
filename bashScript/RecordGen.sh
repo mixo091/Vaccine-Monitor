@@ -4,8 +4,8 @@
 
 	echo "VirusFile: $1";
 	echo "Countryfile: $2";
-    echo "numberOfLines: $3";
-    echo "DuplicatesAllowed: $4";
+        echo "numberOfLines: $3";
+        echo "DuplicatesAllowed: $4";
 	echo "Generating Record File!"
 	file="InputFile.txt"
 	if [ -f "$file" ] ; then
